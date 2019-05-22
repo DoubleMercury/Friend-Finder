@@ -35,16 +35,16 @@ var friendsArr = [
         name: "ol' Boring Billy Bob",
         photo: "https://unsplash.com/photos/das6NrjLoM0",
         scores: [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
             "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"
+            "3",
+            "3"
         ] 
     }
 ]

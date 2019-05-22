@@ -186,7 +186,7 @@ $("#submit").on("click", function(){
     ]
   };
   $.post("/api/friends", userInput, function(data){
-    console.log(err)
+    console.log(err);
     $("#friendMatch").text(data.name);
     $("#friendPic").attr("src", data.photo);
   });
